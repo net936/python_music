@@ -1,0 +1,15 @@
+/server/myapp/migrations
+/server/myapp/views/__pycache__/
+/server/.idea
+/web/.idea
+/web/dist
+/web/node_modules
+/server/.idea/
+/.idea/
+.idea
+.idea/workspace.xml
+__pycache__
+server/.idea
+.DS_Store
+server/.DS_Store
+web/.DS_Store
