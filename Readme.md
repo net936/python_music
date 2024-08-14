@@ -38,13 +38,10 @@
 - 前端技术栈 ES6、vue、vuex、vue-router、vue-cli、axios、antd
 - 后端技术栈 Python、Django、pip
 
-## 源码下载
-
-https://github.com/geeeeeeeek/python_xxxxx
 
 ## 在线演示
 
-演示地址：[https://xxxxx.gitapp.cn](https://xxxxx.gitapp.cn)
+演示地址：[https://music.gitapp.cn](https://music.gitapp.cn)
 
 ## 运行步骤
 
